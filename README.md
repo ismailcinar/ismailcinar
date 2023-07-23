@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm İsmail Çınar</h1>
-<h3 align="center">I am a newly graduated computer engineer. I develop myself more in the backend area.</h3>
+<h3 align="center">I am a newly graduated computer engineer. I develop myself more in the backend.</h3>
 
 - 🔭 I’m currently working on **Django Projects**
 
